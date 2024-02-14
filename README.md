@@ -7,6 +7,7 @@ How to install themes into blender.
 - Switch to Themes section.
 - Press Install button and select the downloaded XML file.
 
+Note: This theme was made in blender 3.6.8 LTS and it also works in the blender 4.0+ series. Themes only change appearance and do not change any of your modeling settings. 
 
 **Black and purple theme with semi-transparent menus.** 
 
