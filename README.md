@@ -1,7 +1,7 @@
 **# Blender-Themes**
 
 How to install themes into blender. 
-- Those not familiar with git hub. click on the green icon on the top right <Code> to download the zip. 
+- Those not familiar with git hub. click on the green icon on the top right Code to download the zip. 
 - Clone or Download ZIP.
 - Extract the zip file. 
 - Open Blender Preferences. (Edit > Preferences)
