@@ -14,3 +14,11 @@ Note: This theme was made in blender 3.6.8 LTS and it also works in the blender 
 
 ![image](https://github.com/RasoftDS/Blender-Themes/assets/7978358/26b19c2c-4460-4f03-8ce5-3b14f71e35bf)
 
+
+
+
+**Basic Black and white them with vignette and transparent menu backgrounds. Great theme for no distractions.**
+
+![image](https://github.com/RasoftDS/Blender-Themes/assets/7978358/8e6c75b5-5c47-42fd-acc3-18dd00669f3c)
+
+
