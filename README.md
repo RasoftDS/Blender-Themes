@@ -14,3 +14,8 @@ Note: This theme was made in blender 3.6.8 LTS and it also works in the blender 
 
 ![image](https://github.com/RasoftDS/Blender-Themes/assets/7978358/26b19c2c-4460-4f03-8ce5-3b14f71e35bf)
 
+
+
+Added a new theme today with blue outline and transparent drop down menues. 
+
+![BlueOutline](https://github.com/RasoftDS/Blender-Themes/assets/7978358/5f8a1abc-52cd-4ff7-9d18-2fb6c4e25191)
