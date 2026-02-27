@@ -17,6 +17,6 @@ Note: This theme was made in blender 3.6.8 LTS and it also works in the blender 
 
 ![image](https://github.com/RasoftDS/Blender-Themes/assets/7978358/26b19c2c-4460-4f03-8ce5-3b14f71e35bf)
 
-** (New Design) Black and Purple theme updated for blender 5.0 and up ** 
+**(New Design) Black and Purple theme updated for blender 5.0 and up** 
 
 <img width="2559" height="1033" alt="image" src="https://github.com/user-attachments/assets/b0802a5d-aa84-407c-8ac4-75fecb3f3613" />
