@@ -16,8 +16,3 @@ Note: This theme was made in blender 3.6.8 LTS and it also works in the blender 
 **Black and purple theme with semi-transparent menus.** 
 
 ![image](https://github.com/RasoftDS/Blender-Themes/assets/7978358/26b19c2c-4460-4f03-8ce5-3b14f71e35bf)
-
-**Black & Red theme**
-Added a new theme that has been requested. This features red outline, pur black backdrops and 50 % menu opacity.
-
-![Screenshot 2024-05-09 084734](https://github.com/RasoftDS/Blender-Themes/assets/7978358/d5d05185-749b-4352-b414-ee286bb2ce76)
