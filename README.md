@@ -1,4 +1,6 @@
 **# Blender-Themes**
+Updated: 
+Black & Purple theme to be compatible with blender 5.0 and up. Please use "black & Purple 5" for blender version 5 and up. 
 
 How to install themes into blender. 
 - Those not familiar with git hub. click on the green icon on the top right Code to download the zip. 
